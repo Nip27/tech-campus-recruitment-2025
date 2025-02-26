@@ -108,7 +108,7 @@ The script is named `log_filter.py` and includes the following key components:
 
        ```bash
 
-       gdown https://drive.google.com/uc?id=FILE_ID
+       https://drive.google.com/file/d/1kQPeECKHD4_x_1f9qKjzCSo0MKvxik_2/view?usp=sharing
 
        ```
 
